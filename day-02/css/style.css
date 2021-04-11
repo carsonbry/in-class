@@ -7,7 +7,7 @@ header {
     height: 10em;
 }
 main { 
-    background-color: rgba(0, 225, 0, .2);
+    background-color: rgba(0, 225, 0, .2);  
     color: red;
 }
 main p:first-child{
